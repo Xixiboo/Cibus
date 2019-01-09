@@ -5,6 +5,15 @@ Author URI: http://www.cibus.com
 Description: Notre premier thème WordPress !
 */
 
-div{
-    border: 1px solid red;
+.header{
+    background : #363636;
+}
+#nav li{
+    position: relative;
+    display: inline-block;
+    padding: 10px;
+    font-weight: 300;
+}
+#nav li a{
+   text-decoration: none;
 }
