@@ -25,6 +25,7 @@
 
         </div>
         <nav id="nav">
+        <?php wp_nav_menu( array( ‘theme_location’ => ‘menu-principal’ ) ); ?>
             <a  href="#">Accueil</a>
             <a href="#">Articles</a>
             <a href="#">Contacts</a>
