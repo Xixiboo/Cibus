@@ -7,6 +7,7 @@ Description: Notre premier thème WordPress !
 
 .header{
     background : #363636;
+    color: white;
 }
 #nav li{
     position: relative;
