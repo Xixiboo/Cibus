@@ -19,3 +19,6 @@ Description: Notre premier thème WordPress !
 #nav li a{
    text-decoration: none;
 }
+.banniere{
+    background-image: url();
+}
