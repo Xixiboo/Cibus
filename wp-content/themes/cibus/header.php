@@ -25,12 +25,12 @@
         <div class="banniere">
 
         </div>
-        <nav id="nav">
-            <?php wp_nav_menu( array( 'theme_location' => 'menu-principal' ) ); ?>
-            <li><a href="#">Accueil</a></li>
-            <li><a href="#">Articles</a></li>
-            <li><a href="#">Contacts</a></li>
-            <li><a href="#">A Propos</a></li>
-        </nav>
-    </div>
-<div class="container">
+            <nav id="nav">
+                <?php wp_nav_menu( array( 'theme_location' => 'menu-principal' ) ); ?>
+                <li><a href="#">Accueil</a></li>
+                <li><a href="#">Articles</a></li>
+                <li><a href="#">Contacts</a></li>
+                <li><a href="#">A Propos</a></li>
+            </nav>
+        </div>
+    <div class="container">
