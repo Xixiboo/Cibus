@@ -16,6 +16,7 @@
 
 <!-- Feuille CSS -->
     <link rel="stylesheet" href="style.css">
+    
     <?php wp_head(); ?>
 </head>
 <body>
