@@ -26,10 +26,10 @@
 
         </div>
         <nav id="nav">
-            <?php wp_nav_menu( array( ‘theme_location’ => ‘menu-principal’ ) ); ?>
+            <?php wp_nav_menu( array( 'theme_location' => 'menu-principal' ) ); ?>
             <li><a href="#"></a>Accueil</li>
             <li><a href="#"></a>Articles</li>
-            <li><a href="#"></a>Contacts<li>
+            <li><a href="#"></a>Contacts</li>
             <li><a href="#"></a>A Propos</li>
         </nav>
     </div>
