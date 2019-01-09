@@ -25,11 +25,11 @@
 
         </div>
         <nav id="nav">
-        <?php wp_nav_menu( array( ‘theme_location’ => ‘menu-principal’ ) ); ?>
-            <a  href="#">Accueil</a>
-            <a href="#">Articles</a>
-            <a href="#">Contacts</a>
-            <a href="#">À Propos</a>
+            <?php wp_nav_menu( array( ‘theme_location’ => ‘menu-principal’ ) ); ?>
+            <li><a href="#"></a>Accueil</li>
+            <li><a href="#"></a>Articles</li>
+            <li><a href="#"></a>Contacts<li>
+            <li><a href="#"></a>A Propos</li>
         </nav>
     </div>
 <div class="container">
