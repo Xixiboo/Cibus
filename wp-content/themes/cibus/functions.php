@@ -1,4 +1,3 @@
-/*** Ajouter un script ou un fichier CSS de la bonne façon */
 <?php 
 function wpdocs_theme_name_scripts() {
 wp_register_style('main-style', get_template_directory_uri().'/style.css', array(), true);

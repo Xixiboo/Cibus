@@ -7,8 +7,10 @@ Description: Notre premier thème WordPress !
 
 .header{
     background : #363636;
+   
 }
 #nav li{
+    color: white;
     position: relative;
     display: inline-block;
     padding: 10px;
@@ -16,4 +18,7 @@ Description: Notre premier thème WordPress !
 }
 #nav li a{
    text-decoration: none;
+}
+.banniere{
+    background-image: url();
 }
