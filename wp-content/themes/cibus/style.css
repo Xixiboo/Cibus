@@ -13,6 +13,10 @@ body {
     background : #363636; 
 }
 
+.footer{
+    background : #363636;  
+}
+
 #nav li{
     position: relative;
     display: inline-block;
