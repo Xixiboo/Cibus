@@ -5,20 +5,24 @@ Author URI: http://www.cibus.com
 Description: Notre premier thème WordPress !
 */
 
-.header{
-    background : #363636;
-   
+body {
+	font : 14px;
 }
+
+.header{
+    background : #363636; 
+}
+
 #nav li{
-    color: white;
     position: relative;
     display: inline-block;
     padding: 10px;
     font-weight: 300;
 }
+
 #nav li a{
    text-decoration: none;
+   color: white;
+   border-right: 1px solid white;
 }
-.banniere{
-    background-image: url();
-}
+
